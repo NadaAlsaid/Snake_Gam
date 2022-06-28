@@ -8,7 +8,7 @@ Using IOT to make website to choose level the player wants to play by using Node
 - Nodemcu esp8266
   - communicate with Arduino uno by UART protocal so when the player choose certain level Arduino uno recive that so the player can play the level that he/she wants 
 - 8*8 led dot matrix
-  - Show the body of the snake 
+  - Show the body of the snake and the ball
 - Joystick 
   - Moves the snake
 - LCD 

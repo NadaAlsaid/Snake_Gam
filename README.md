@@ -1,12 +1,14 @@
 # Snake Game  
-simulated version of the popular snake game on 8*8 led dot matrix.
+Simulated version of the popular snake game on 8*8 led dot matrix .
 
-using IOT to make website to choose level the player wants to play.
+Using IOT to make website to choose level the player wants to play by using Nodemcu esp8266 .
 
 ## Components :
 - Arduino uno
 - Nodemcu esp8266
+  - communicate with Arduino uno by UART protocal so when the player choose certain level Arduino uno recive that so the player can play the level that he/she wants 
 - 8*8 led dot matrix
+  - Show the body of the snake 
 - Joystick 
   - Moves the snake
 - LCD 
@@ -22,8 +24,8 @@ using IOT to make website to choose level the player wants to play.
 
 ## The game consists of 3 levels :  
 - ### Infinite : 
-      - Player still plays untill snake eats himself .
+      Player still plays untill snake eats himself/herself .
 - ### Levels : 
-      - It's 2 levels . If player makes certain score , player moves to second level .
+      It's 2 levels . If player makes certain score , player moves to second level .
 - ### Time : 
-      - Player plays 15 seconds or untill eats himself .
+      Player plays 15 seconds or untill eats himself/herself .

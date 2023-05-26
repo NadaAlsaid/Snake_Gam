@@ -1,4 +1,4 @@
-# Snake Game  
+<h1 align="center"> Snake Game  </h1>
 Simulated version of the popular snake game on 8*8 led dot matrix .
 
 Using IOT to make website to choose level the player wants to play by using Nodemcu esp8266 .
@@ -29,3 +29,7 @@ Using IOT to make website to choose level the player wants to play by using Node
       It's 2 levels . If player makes certain score , player moves to second level .
 - ### Time : 
       Player plays 15 seconds or untill eats himself/herself .
+
+# Collaborators:
+- <a href="https://github.com/NadaAlsaid">Nada Alsaid</a><br>
+- <a href="https://github.com/hagerkhaledabdelmonem">Hager Khaled</a><br>
